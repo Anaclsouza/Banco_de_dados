@@ -1,6 +1,5 @@
 # Banco_de_dados
 
-Este é um projeto conceitual de banco de dados que teve como inspiração o APP Zé delivery, através dele conseguimos registrar os pedidos de bebidas e verificar o andamento do mesmo. 
 
 Regras de negocio: 
 •  O usuário/cliente deverá se registrar no sistema. O banco de dados deverá gravar as
